@@ -1,7 +1,7 @@
 pymysql
 ipython-sql
 mysqlclient
-pandasql
+pandasql==0.7.3
 plotly_express==0.4
 pandas
 numpy
