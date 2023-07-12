@@ -11,3 +11,4 @@ dash-html-components
 dash-core-components
 dash-bootstrap-components==1.2.0
 gunicorn
+sqlalchemy==1.4.46
