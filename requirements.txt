@@ -1,0 +1,13 @@
+pymysql
+ipython-sql
+mysqlclient
+pandasql
+plotly_express==0.4
+pandas
+numpy
+dash==2.6.0
+dash-renderer
+dash-html-components
+dash-core-components
+dash-bootstrap-components==1.2.0
+gunicorn
